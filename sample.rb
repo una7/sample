@@ -1,3 +1,5 @@
-def hello
-  p "hello, GitHub."
+ef hello
+  p "hello, GitHub Desktop."
 end
+
+hello
